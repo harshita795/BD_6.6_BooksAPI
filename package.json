@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
